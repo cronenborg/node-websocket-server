@@ -11,5 +11,5 @@ npm install
 Launch it with:
 
 ```
-node app.js
+npm start
 ```
